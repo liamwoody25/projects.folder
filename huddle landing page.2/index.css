@@ -11,4 +11,25 @@ body{
     display: flex;
 }
 
-.nav-header
+.container{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0;
+    padding-left:0;
+    padding-right:0;
+    object-fit: cover;
+
+}
+
+.nav-header{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav-header img{
+    object-fit: cover;
+}
+
+.logo{
+    width:25px;
+}
