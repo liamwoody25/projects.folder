@@ -1,5 +1,8 @@
 :root{
     --main-color: hsl(257, 40%, 49%);
     --secondary-color: hsl(300, 69%, 71%);
+}
 
+* {
+    font-family: 'poppins',sans-serif;
 }
