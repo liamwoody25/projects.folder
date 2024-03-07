@@ -9,24 +9,29 @@
 
 body{
     display: flex;
+    justify-content: space-between;
 }
 
 .main-container{
-    width: 100%;
-    padding: 0;
-    padding-left:0;
-    padding-right:0;
-    padding-bottom: 0;
+    width: 150%;
+    box-sizing: border-box;
+    background-color: var(--main-color);
 
 }
+
+
 
 .nav-header{
-    display: flex;
-    flex-wrap: wrap;
+
 }
 
-.
+
 
 .logo{
-    width:25px;
+    width:190px;
+    padding-top: 0px;
+    align-items: flex-end;
+    m
+    
+
 }
