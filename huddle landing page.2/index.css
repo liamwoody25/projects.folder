@@ -13,11 +13,12 @@ body{
 }
 
 .main-container{
-    width: 150%;
+    width: 250%;
+    height:fit-content;
     box-sizing: border-box;
     background-color: var(--main-color);
-
 }
+
 
 
 
@@ -29,9 +30,7 @@ body{
 
 .logo{
     width:190px;
-    padding-top: 0px;
+    padding-top:10px;
     align-items: flex-end;
-    m
-    
 
 }
