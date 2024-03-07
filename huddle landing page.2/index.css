@@ -16,14 +16,18 @@ body{
     width: 250%;
     height:fit-content;
     box-sizing: border-box;
-    background-color: var(--main-color);
+    max-width: ;
 }
-
-
 
 
 .nav-header{
 
+}
+
+.nav-header img{
+    background-image: url(./images/bg-desktop.svg);
+    background-color: var(--main-color);
+    background-size: cover;
 }
 
 
