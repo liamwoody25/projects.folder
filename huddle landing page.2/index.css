@@ -11,12 +11,12 @@ body{
     display: flex;
 }
 
-.container{
+.main-container{
     width: 100%;
-    box-sizing: border-box;
     padding: 0;
     padding-left:0;
     padding-right:0;
+    padding-bottom: 0;
 
 }
 
