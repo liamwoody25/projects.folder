@@ -10,6 +10,8 @@
 body{
     display: flex;
     justify-content: space-between;
+    background-image: url(./images/bg-desktop.svg);
+    background-color: var(--main-color);
 }
 
 .main-container{
@@ -22,16 +24,10 @@ body{
 }
 
 
-.header-img {
+.nav-header-img {
 
 }
 
 .logo{
     width: 50px;
-}
-
-.intro-section img{
-    width: 100%;
-    background-image: url(./images/bg-desktop.svg);
-    background-color: var(--main-color); 
 }
