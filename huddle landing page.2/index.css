@@ -16,25 +16,22 @@ body{
     width: 250%;
     height:fit-content;
     box-sizing: border-box;
-    max-width: ;
-}
-
-
-.nav-header{
+    background-size: contain;
+    padding-top: 0;
 
 }
 
-.nav-header img{
-    background-image: url(./images/bg-desktop.svg);
-    background-color: var(--main-color);
-    background-size: cover;
+
+.header-img {
+
 }
-
-
 
 .logo{
-    width:190px;
-    padding-top:10px;
-    align-items: flex-end;
+    width: 50px;
+}
 
+.intro-section img{
+    width: 100%;
+    background-image: url(./images/bg-desktop.svg);
+    background-color: var(--main-color); 
 }
